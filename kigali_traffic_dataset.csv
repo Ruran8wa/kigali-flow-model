@@ -1,0 +1,1001 @@
+time_of_day,weather,road_type,event,congestion_level
+morning,rain,main road,1,High
+evening,rain,residential,1,Moderate
+afternoon,foggy,secondary road,0,Low
+evening,cloudy,secondary road,1,Moderate
+evening,clear,residential,0,High
+afternoon,rain,main road,0,High
+evening,rain,secondary road,0,Moderate
+afternoon,clear,residential,1,Moderate
+evening,cloudy,secondary road,0,High
+afternoon,rain,secondary road,0,Moderate
+evening,clear,residential,0,High
+evening,foggy,residential,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+evening,cloudy,residential,0,Moderate
+afternoon,clear,main road,1,High
+afternoon,cloudy,main road,0,Low
+evening,cloudy,residential,0,Moderate
+evening,rain,residential,1,Moderate
+afternoon,foggy,secondary road,0,Low
+morning,cloudy,main road,0,Low
+afternoon,rain,main road,0,High
+afternoon,rain,main road,1,High
+evening,cloudy,secondary road,0,Moderate
+morning,cloudy,main road,0,Low
+evening,foggy,residential,1,Moderate
+afternoon,rain,main road,0,High
+morning,cloudy,main road,0,Low
+evening,rain,secondary road,0,Moderate
+afternoon,rain,residential,0,Moderate
+morning,rain,secondary road,0,Moderate
+evening,foggy,secondary road,0,Moderate
+morning,cloudy,secondary road,0,Low
+evening,cloudy,secondary road,1,Moderate
+evening,foggy,residential,0,Moderate
+morning,foggy,main road,1,High
+afternoon,foggy,residential,0,Low
+morning,clear,main road,1,High
+afternoon,clear,main road,1,High
+afternoon,foggy,main road,0,Low
+evening,rain,residential,0,Low
+morning,clear,main road,1,High
+morning,foggy,main road,1,High
+evening,cloudy,main road,1,High
+evening,cloudy,secondary road,0,Moderate
+morning,rain,main road,0,High
+morning,foggy,main road,0,Low
+morning,clear,main road,1,High
+afternoon,clear,residential,1,Moderate
+evening,rain,secondary road,1,Moderate
+evening,clear,secondary road,0,High
+morning,cloudy,secondary road,0,Low
+morning,cloudy,main road,1,High
+evening,cloudy,residential,0,High
+evening,foggy,secondary road,0,High
+morning,foggy,secondary road,1,Moderate
+afternoon,clear,residential,1,Moderate
+evening,foggy,main road,0,High
+afternoon,cloudy,main road,0,Low
+morning,cloudy,residential,1,Moderate
+evening,foggy,main road,0,Moderate
+morning,foggy,secondary road,1,Moderate
+morning,rain,main road,0,High
+morning,clear,secondary road,0,Low
+evening,rain,secondary road,1,Moderate
+evening,rain,residential,0,Moderate
+evening,cloudy,secondary road,0,Moderate
+morning,cloudy,secondary road,1,Moderate
+afternoon,cloudy,secondary road,1,Moderate
+afternoon,rain,residential,0,Moderate
+evening,foggy,residential,0,Moderate
+afternoon,clear,residential,1,Low
+morning,cloudy,main road,0,Low
+evening,foggy,residential,1,Moderate
+evening,cloudy,residential,1,Low
+afternoon,clear,main road,0,Low
+afternoon,clear,residential,1,Low
+morning,rain,main road,0,High
+morning,cloudy,secondary road,1,Moderate
+evening,cloudy,secondary road,0,High
+morning,clear,residential,1,Moderate
+afternoon,cloudy,main road,1,High
+afternoon,foggy,main road,0,Low
+afternoon,rain,residential,1,Moderate
+evening,foggy,main road,1,High
+afternoon,clear,residential,0,Low
+morning,foggy,secondary road,1,Moderate
+evening,clear,residential,1,Moderate
+morning,rain,main road,0,High
+afternoon,rain,secondary road,1,Moderate
+afternoon,rain,secondary road,1,Moderate
+evening,rain,main road,1,High
+morning,foggy,residential,0,Low
+evening,cloudy,secondary road,1,Moderate
+evening,cloudy,residential,0,Moderate
+morning,clear,residential,0,Low
+evening,clear,secondary road,0,High
+afternoon,rain,secondary road,1,Moderate
+evening,clear,main road,1,High
+morning,clear,secondary road,1,Moderate
+morning,rain,residential,0,Low
+morning,foggy,residential,0,Low
+morning,cloudy,residential,0,Low
+afternoon,cloudy,secondary road,0,Low
+afternoon,rain,residential,1,Low
+morning,rain,secondary road,1,Moderate
+afternoon,cloudy,main road,1,High
+afternoon,foggy,main road,0,Low
+evening,rain,main road,1,High
+afternoon,cloudy,secondary road,0,Low
+afternoon,rain,residential,0,Moderate
+evening,foggy,secondary road,1,Moderate
+afternoon,foggy,secondary road,0,Low
+afternoon,foggy,residential,0,Low
+afternoon,rain,secondary road,1,Moderate
+afternoon,cloudy,residential,0,Low
+morning,clear,main road,0,Low
+morning,foggy,residential,1,Moderate
+morning,rain,residential,0,Moderate
+evening,clear,secondary road,0,Moderate
+evening,clear,residential,0,Moderate
+evening,foggy,main road,0,High
+evening,clear,residential,0,Moderate
+evening,cloudy,residential,1,Moderate
+afternoon,foggy,secondary road,0,Low
+evening,rain,main road,0,High
+afternoon,foggy,secondary road,0,Low
+afternoon,clear,residential,1,Moderate
+evening,rain,main road,0,High
+afternoon,rain,residential,0,Low
+morning,cloudy,main road,1,High
+morning,cloudy,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+evening,cloudy,residential,1,Moderate
+morning,rain,residential,0,Low
+evening,clear,main road,0,Moderate
+evening,clear,secondary road,1,Moderate
+afternoon,cloudy,secondary road,1,Moderate
+afternoon,foggy,residential,1,Low
+morning,clear,residential,0,Low
+evening,clear,main road,1,High
+evening,cloudy,secondary road,0,High
+afternoon,foggy,main road,0,Low
+afternoon,clear,main road,1,High
+afternoon,rain,secondary road,1,Moderate
+evening,clear,main road,0,High
+afternoon,rain,residential,1,Low
+evening,rain,residential,0,Moderate
+evening,rain,main road,0,High
+afternoon,rain,residential,0,Low
+evening,rain,main road,1,High
+evening,clear,residential,1,Moderate
+evening,rain,residential,0,Moderate
+afternoon,cloudy,residential,1,Moderate
+evening,foggy,secondary road,1,Moderate
+afternoon,foggy,residential,1,Low
+morning,cloudy,secondary road,1,Moderate
+evening,clear,residential,1,Moderate
+evening,rain,secondary road,1,Moderate
+morning,clear,residential,1,Moderate
+morning,rain,main road,0,High
+evening,rain,residential,1,Low
+evening,clear,main road,0,High
+morning,cloudy,residential,0,Low
+morning,rain,secondary road,1,Moderate
+afternoon,cloudy,secondary road,1,Moderate
+evening,clear,residential,1,Moderate
+evening,rain,secondary road,1,Moderate
+afternoon,foggy,residential,0,Low
+morning,cloudy,residential,0,Low
+morning,cloudy,residential,0,Low
+morning,clear,main road,0,Low
+morning,clear,secondary road,0,Low
+morning,foggy,residential,0,Low
+morning,cloudy,residential,0,Low
+morning,clear,main road,0,Low
+evening,cloudy,main road,0,Moderate
+afternoon,foggy,secondary road,1,Moderate
+evening,cloudy,secondary road,1,Moderate
+evening,clear,main road,0,High
+afternoon,cloudy,secondary road,1,Moderate
+afternoon,foggy,main road,0,Low
+afternoon,clear,secondary road,0,Low
+morning,foggy,residential,0,Low
+afternoon,cloudy,main road,1,High
+afternoon,rain,residential,0,Moderate
+evening,clear,secondary road,0,High
+morning,rain,residential,0,Moderate
+afternoon,rain,secondary road,0,Moderate
+evening,cloudy,secondary road,1,Moderate
+afternoon,cloudy,main road,0,Low
+evening,clear,secondary road,1,Moderate
+morning,rain,main road,1,High
+morning,rain,secondary road,0,Moderate
+evening,rain,secondary road,0,Moderate
+afternoon,clear,secondary road,0,Low
+evening,cloudy,secondary road,0,Moderate
+afternoon,clear,secondary road,1,Moderate
+evening,foggy,main road,0,Moderate
+morning,rain,secondary road,0,Moderate
+evening,rain,secondary road,1,Moderate
+morning,clear,residential,0,Low
+morning,clear,main road,1,High
+morning,cloudy,main road,0,Low
+evening,clear,residential,0,High
+afternoon,clear,residential,1,Moderate
+afternoon,cloudy,main road,0,Low
+morning,cloudy,main road,1,High
+afternoon,rain,main road,0,High
+afternoon,foggy,main road,0,Low
+evening,clear,secondary road,0,Moderate
+morning,clear,secondary road,0,Low
+afternoon,rain,secondary road,0,Moderate
+morning,rain,main road,1,High
+afternoon,clear,residential,1,Low
+morning,clear,main road,0,Low
+afternoon,clear,main road,0,Low
+morning,clear,residential,1,Low
+evening,clear,main road,0,Moderate
+morning,rain,secondary road,0,Moderate
+morning,rain,main road,1,High
+afternoon,cloudy,secondary road,0,Low
+morning,foggy,secondary road,1,Moderate
+evening,clear,secondary road,1,Moderate
+afternoon,cloudy,main road,1,High
+evening,foggy,residential,0,High
+afternoon,clear,secondary road,0,Low
+evening,clear,residential,0,High
+morning,foggy,main road,0,Low
+morning,foggy,residential,0,Low
+afternoon,cloudy,secondary road,0,Low
+morning,rain,main road,1,High
+evening,rain,residential,0,Moderate
+evening,cloudy,main road,1,High
+afternoon,foggy,main road,1,High
+evening,cloudy,residential,1,Low
+morning,cloudy,secondary road,0,Low
+morning,rain,secondary road,1,Moderate
+afternoon,rain,main road,0,High
+morning,foggy,secondary road,0,Low
+evening,rain,main road,0,High
+afternoon,clear,residential,1,Moderate
+morning,foggy,main road,1,High
+morning,clear,residential,1,Moderate
+morning,foggy,secondary road,0,Low
+morning,cloudy,residential,1,Moderate
+afternoon,cloudy,secondary road,0,Low
+evening,rain,residential,0,Low
+afternoon,clear,residential,0,Low
+evening,clear,secondary road,0,High
+morning,clear,secondary road,1,Moderate
+afternoon,rain,secondary road,1,Moderate
+morning,rain,main road,0,High
+morning,clear,main road,1,High
+afternoon,foggy,main road,1,High
+morning,rain,residential,1,Moderate
+afternoon,clear,main road,1,High
+evening,rain,main road,1,High
+morning,foggy,main road,0,Low
+evening,clear,residential,1,Low
+morning,clear,secondary road,0,Low
+afternoon,foggy,main road,1,High
+morning,rain,main road,1,High
+morning,foggy,main road,1,High
+afternoon,rain,residential,1,Moderate
+afternoon,clear,main road,0,Low
+afternoon,clear,residential,1,Low
+morning,foggy,main road,1,High
+morning,clear,main road,1,High
+evening,rain,secondary road,0,Moderate
+evening,foggy,secondary road,0,High
+afternoon,rain,main road,1,High
+morning,clear,residential,1,Moderate
+afternoon,foggy,secondary road,0,Low
+afternoon,cloudy,residential,0,Low
+morning,cloudy,main road,1,High
+morning,rain,residential,1,Low
+morning,rain,secondary road,0,Moderate
+morning,foggy,residential,1,Low
+morning,cloudy,secondary road,1,Moderate
+evening,rain,main road,1,High
+evening,cloudy,main road,1,High
+evening,rain,residential,0,Low
+evening,foggy,residential,1,Low
+morning,clear,main road,0,Low
+afternoon,cloudy,residential,1,Low
+afternoon,cloudy,main road,1,High
+evening,foggy,secondary road,1,Moderate
+evening,rain,residential,1,Low
+morning,foggy,main road,1,High
+morning,cloudy,secondary road,0,Low
+afternoon,clear,residential,0,Low
+evening,rain,residential,1,Moderate
+evening,cloudy,main road,0,High
+afternoon,foggy,main road,1,High
+evening,foggy,main road,1,High
+evening,foggy,main road,0,Moderate
+afternoon,foggy,main road,0,Low
+afternoon,foggy,residential,1,Low
+afternoon,foggy,residential,1,Low
+morning,cloudy,main road,1,High
+afternoon,cloudy,main road,1,High
+morning,cloudy,main road,0,Low
+evening,rain,main road,1,High
+evening,rain,secondary road,1,Moderate
+afternoon,rain,secondary road,1,Moderate
+afternoon,cloudy,residential,1,Moderate
+afternoon,clear,secondary road,0,Low
+afternoon,foggy,main road,0,Low
+afternoon,clear,main road,0,Low
+morning,rain,main road,0,High
+morning,clear,residential,0,Low
+evening,clear,main road,1,High
+evening,rain,secondary road,1,Moderate
+morning,foggy,secondary road,0,Low
+afternoon,foggy,residential,1,Moderate
+morning,rain,main road,0,High
+afternoon,cloudy,residential,1,Low
+afternoon,rain,secondary road,1,Moderate
+morning,rain,main road,1,High
+afternoon,rain,main road,1,High
+afternoon,clear,main road,0,Low
+afternoon,foggy,main road,1,High
+morning,foggy,residential,0,Low
+afternoon,foggy,residential,0,Low
+afternoon,foggy,main road,1,High
+morning,rain,main road,0,High
+evening,cloudy,residential,0,High
+afternoon,rain,secondary road,0,Moderate
+afternoon,cloudy,secondary road,0,Low
+afternoon,cloudy,main road,0,Low
+morning,foggy,residential,1,Low
+morning,cloudy,secondary road,0,Low
+evening,cloudy,secondary road,1,Moderate
+afternoon,rain,residential,1,Moderate
+afternoon,clear,residential,0,Low
+afternoon,clear,residential,1,Moderate
+morning,rain,residential,1,Low
+afternoon,rain,secondary road,0,Moderate
+morning,rain,secondary road,1,Moderate
+afternoon,rain,secondary road,0,Moderate
+morning,cloudy,secondary road,1,Moderate
+afternoon,rain,main road,0,High
+evening,cloudy,main road,0,Moderate
+evening,rain,residential,1,Low
+morning,cloudy,residential,0,Low
+morning,foggy,main road,0,Low
+evening,cloudy,secondary road,1,Moderate
+morning,cloudy,main road,0,Low
+morning,cloudy,secondary road,1,Moderate
+afternoon,foggy,main road,0,Low
+morning,cloudy,main road,1,High
+morning,cloudy,main road,1,High
+morning,cloudy,secondary road,0,Low
+afternoon,rain,secondary road,1,Moderate
+afternoon,clear,residential,0,Low
+morning,cloudy,secondary road,0,Low
+evening,foggy,residential,1,Moderate
+morning,rain,secondary road,0,Moderate
+afternoon,foggy,main road,1,High
+afternoon,clear,secondary road,1,Moderate
+morning,rain,main road,0,High
+evening,clear,residential,1,Moderate
+evening,rain,secondary road,1,Moderate
+afternoon,clear,residential,1,Low
+evening,clear,main road,1,High
+evening,cloudy,residential,0,Moderate
+morning,cloudy,residential,0,Low
+afternoon,clear,secondary road,0,Low
+morning,rain,main road,1,High
+afternoon,cloudy,residential,0,Low
+morning,clear,main road,1,High
+afternoon,rain,secondary road,0,Moderate
+afternoon,rain,main road,1,High
+evening,cloudy,secondary road,1,Moderate
+morning,clear,secondary road,0,Low
+afternoon,cloudy,residential,1,Low
+afternoon,clear,main road,1,High
+morning,cloudy,secondary road,0,Low
+afternoon,clear,residential,0,Low
+evening,foggy,secondary road,1,Moderate
+morning,rain,secondary road,1,Moderate
+afternoon,rain,secondary road,1,Moderate
+evening,rain,main road,1,High
+morning,clear,main road,0,Low
+afternoon,clear,residential,0,Low
+morning,rain,main road,0,High
+morning,foggy,main road,1,High
+evening,cloudy,secondary road,0,High
+morning,clear,residential,0,Low
+afternoon,rain,main road,1,High
+evening,rain,residential,1,Moderate
+evening,clear,secondary road,0,Moderate
+morning,foggy,main road,1,High
+morning,cloudy,main road,1,High
+evening,clear,secondary road,1,Moderate
+evening,cloudy,main road,0,Moderate
+morning,rain,residential,0,Moderate
+evening,cloudy,main road,0,High
+evening,rain,secondary road,1,Moderate
+afternoon,clear,main road,0,Low
+afternoon,rain,secondary road,1,Moderate
+morning,clear,secondary road,0,Low
+morning,cloudy,secondary road,0,Low
+evening,cloudy,secondary road,1,Moderate
+morning,clear,main road,1,High
+morning,clear,main road,0,Low
+evening,foggy,residential,0,High
+afternoon,foggy,residential,0,Low
+morning,rain,main road,0,High
+morning,clear,secondary road,0,Low
+morning,cloudy,residential,0,Low
+morning,foggy,residential,0,Low
+afternoon,rain,main road,0,High
+afternoon,cloudy,residential,1,Low
+morning,clear,main road,1,High
+evening,clear,residential,0,High
+evening,cloudy,residential,0,Moderate
+afternoon,foggy,residential,1,Low
+morning,cloudy,residential,0,Low
+afternoon,rain,residential,0,Low
+evening,cloudy,secondary road,0,High
+afternoon,clear,residential,0,Low
+afternoon,clear,residential,0,Low
+morning,foggy,main road,0,Low
+evening,rain,main road,1,High
+evening,cloudy,main road,0,High
+morning,rain,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+evening,cloudy,main road,0,High
+afternoon,foggy,residential,1,Low
+evening,foggy,residential,1,Moderate
+evening,clear,secondary road,0,Moderate
+evening,clear,secondary road,1,Moderate
+afternoon,cloudy,secondary road,0,Low
+afternoon,cloudy,residential,1,Low
+evening,foggy,secondary road,0,Moderate
+evening,cloudy,residential,0,High
+morning,rain,secondary road,0,Moderate
+morning,rain,main road,0,High
+morning,clear,residential,0,Low
+morning,cloudy,secondary road,0,Low
+afternoon,cloudy,secondary road,1,Moderate
+afternoon,cloudy,residential,0,Low
+morning,rain,main road,1,High
+afternoon,clear,residential,1,Moderate
+evening,clear,secondary road,1,Moderate
+evening,foggy,secondary road,1,Moderate
+morning,foggy,main road,0,Low
+morning,rain,main road,1,High
+morning,clear,main road,0,Low
+afternoon,foggy,secondary road,0,Low
+evening,foggy,main road,0,Moderate
+evening,rain,main road,0,High
+evening,clear,residential,0,High
+morning,foggy,main road,0,Low
+evening,rain,main road,0,High
+afternoon,clear,secondary road,0,Low
+morning,rain,secondary road,0,Moderate
+morning,clear,secondary road,1,Moderate
+morning,foggy,secondary road,0,Low
+morning,rain,residential,1,Low
+morning,rain,secondary road,1,Moderate
+morning,cloudy,residential,0,Low
+afternoon,foggy,main road,1,High
+afternoon,clear,residential,0,Low
+evening,clear,residential,1,Moderate
+evening,clear,residential,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+morning,cloudy,main road,1,High
+evening,rain,main road,0,High
+afternoon,clear,residential,0,Low
+evening,foggy,main road,1,High
+morning,foggy,secondary road,1,Moderate
+evening,foggy,main road,0,Moderate
+evening,foggy,residential,0,High
+morning,cloudy,secondary road,1,Moderate
+afternoon,foggy,secondary road,1,Moderate
+afternoon,rain,secondary road,0,Moderate
+morning,rain,main road,0,High
+morning,foggy,main road,1,High
+evening,cloudy,main road,1,High
+evening,cloudy,main road,0,High
+evening,foggy,residential,1,Moderate
+morning,clear,residential,1,Moderate
+afternoon,foggy,main road,0,Low
+morning,cloudy,main road,1,High
+morning,clear,residential,1,Moderate
+afternoon,rain,residential,0,Low
+afternoon,foggy,main road,0,Low
+morning,cloudy,secondary road,0,Low
+afternoon,foggy,residential,1,Low
+morning,clear,main road,0,Low
+afternoon,rain,main road,1,High
+evening,clear,secondary road,0,High
+afternoon,clear,main road,0,Low
+afternoon,clear,secondary road,1,Moderate
+afternoon,foggy,secondary road,0,Low
+morning,cloudy,main road,1,High
+afternoon,clear,main road,0,Low
+evening,clear,main road,0,Moderate
+afternoon,foggy,secondary road,0,Low
+evening,cloudy,main road,1,High
+afternoon,foggy,secondary road,1,Moderate
+evening,foggy,secondary road,1,Moderate
+evening,foggy,main road,1,High
+morning,clear,main road,0,Low
+morning,foggy,residential,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+morning,foggy,main road,0,Low
+morning,clear,secondary road,0,Low
+morning,clear,main road,0,Low
+evening,rain,secondary road,1,Moderate
+morning,foggy,residential,0,Low
+morning,cloudy,main road,0,Low
+afternoon,rain,secondary road,1,Moderate
+evening,cloudy,secondary road,1,Moderate
+afternoon,clear,main road,0,Low
+evening,rain,secondary road,1,Moderate
+evening,foggy,residential,0,Moderate
+morning,cloudy,residential,0,Low
+evening,foggy,main road,0,High
+afternoon,cloudy,secondary road,1,Moderate
+evening,clear,main road,1,High
+morning,foggy,secondary road,1,Moderate
+evening,rain,secondary road,0,Moderate
+morning,cloudy,secondary road,0,Low
+morning,clear,main road,1,High
+afternoon,foggy,residential,1,Moderate
+evening,cloudy,secondary road,0,Moderate
+morning,cloudy,main road,1,High
+evening,cloudy,main road,0,High
+evening,clear,residential,0,Moderate
+morning,rain,secondary road,1,Moderate
+morning,foggy,main road,0,Low
+morning,clear,residential,1,Moderate
+afternoon,cloudy,secondary road,0,Low
+morning,cloudy,secondary road,1,Moderate
+evening,cloudy,residential,1,Moderate
+morning,cloudy,secondary road,0,Low
+morning,rain,secondary road,1,Moderate
+evening,rain,secondary road,0,Moderate
+afternoon,foggy,main road,0,Low
+afternoon,clear,residential,1,Moderate
+afternoon,foggy,main road,0,Low
+evening,rain,residential,1,Moderate
+afternoon,rain,residential,0,Moderate
+morning,clear,secondary road,1,Moderate
+morning,rain,main road,1,High
+morning,clear,secondary road,1,Moderate
+afternoon,foggy,secondary road,0,Low
+evening,cloudy,main road,1,High
+evening,clear,secondary road,1,Moderate
+afternoon,cloudy,secondary road,1,Moderate
+morning,clear,main road,1,High
+evening,rain,residential,0,Low
+evening,foggy,secondary road,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+evening,foggy,residential,0,Moderate
+afternoon,clear,residential,0,Low
+evening,cloudy,main road,0,Moderate
+afternoon,foggy,residential,0,Low
+evening,cloudy,main road,1,High
+evening,cloudy,secondary road,1,Moderate
+afternoon,rain,main road,0,High
+afternoon,cloudy,residential,1,Low
+evening,rain,secondary road,1,Moderate
+afternoon,foggy,residential,1,Low
+evening,rain,main road,1,High
+evening,cloudy,residential,1,Low
+morning,foggy,secondary road,0,Low
+afternoon,rain,secondary road,0,Moderate
+afternoon,foggy,secondary road,0,Low
+evening,cloudy,main road,0,Moderate
+morning,clear,residential,1,Low
+morning,rain,main road,1,High
+afternoon,clear,secondary road,1,Moderate
+morning,cloudy,main road,0,Low
+afternoon,foggy,main road,0,Low
+evening,cloudy,main road,1,High
+afternoon,rain,secondary road,0,Moderate
+morning,rain,main road,1,High
+morning,cloudy,secondary road,0,Low
+afternoon,rain,residential,0,Low
+morning,clear,residential,1,Moderate
+evening,foggy,main road,1,High
+evening,rain,residential,0,Low
+morning,foggy,residential,0,Low
+evening,clear,residential,0,Moderate
+morning,clear,residential,0,Low
+afternoon,foggy,main road,1,High
+morning,rain,main road,0,High
+afternoon,rain,residential,0,Moderate
+afternoon,rain,main road,0,High
+evening,clear,main road,1,High
+afternoon,clear,secondary road,1,Moderate
+evening,clear,residential,0,Moderate
+evening,rain,main road,0,High
+evening,cloudy,secondary road,0,High
+evening,cloudy,main road,0,High
+afternoon,clear,main road,0,Low
+morning,rain,secondary road,0,Moderate
+evening,clear,residential,0,High
+afternoon,rain,residential,1,Low
+afternoon,rain,residential,0,Low
+afternoon,foggy,secondary road,1,Moderate
+morning,rain,main road,1,High
+morning,foggy,secondary road,0,Low
+evening,rain,main road,0,High
+afternoon,cloudy,secondary road,1,Moderate
+morning,rain,main road,0,High
+morning,clear,main road,0,Low
+afternoon,clear,secondary road,0,Low
+evening,foggy,main road,0,Moderate
+evening,cloudy,main road,0,High
+evening,rain,main road,0,High
+evening,foggy,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+morning,cloudy,residential,0,Low
+morning,cloudy,secondary road,1,Moderate
+evening,foggy,secondary road,0,High
+evening,rain,secondary road,0,Moderate
+evening,rain,residential,0,Moderate
+afternoon,rain,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+afternoon,cloudy,residential,1,Low
+morning,clear,main road,1,High
+evening,cloudy,main road,1,High
+morning,cloudy,secondary road,1,Moderate
+afternoon,cloudy,main road,0,Low
+evening,rain,residential,1,Low
+evening,clear,main road,1,High
+afternoon,foggy,main road,0,Low
+morning,foggy,residential,1,Low
+evening,rain,main road,1,High
+afternoon,foggy,main road,1,High
+morning,clear,residential,0,Low
+morning,clear,secondary road,1,Moderate
+afternoon,rain,residential,0,Moderate
+evening,clear,main road,0,Moderate
+afternoon,rain,secondary road,1,Moderate
+afternoon,cloudy,residential,0,Low
+afternoon,foggy,secondary road,0,Low
+morning,cloudy,residential,1,Moderate
+evening,foggy,residential,1,Low
+morning,foggy,main road,1,High
+evening,clear,residential,1,Moderate
+evening,rain,secondary road,0,Moderate
+morning,rain,secondary road,1,Moderate
+evening,foggy,main road,0,Moderate
+afternoon,rain,main road,1,High
+afternoon,cloudy,main road,1,High
+afternoon,clear,main road,1,High
+morning,cloudy,residential,0,Low
+evening,clear,main road,0,High
+evening,cloudy,secondary road,0,Moderate
+evening,cloudy,residential,1,Low
+evening,clear,secondary road,0,High
+evening,rain,secondary road,1,Moderate
+evening,clear,main road,0,High
+afternoon,foggy,main road,0,Low
+morning,cloudy,main road,1,High
+morning,cloudy,secondary road,1,Moderate
+evening,clear,residential,1,Low
+morning,clear,residential,1,Moderate
+evening,cloudy,secondary road,0,Moderate
+afternoon,clear,main road,0,Low
+morning,clear,residential,0,Low
+evening,foggy,main road,0,Moderate
+evening,cloudy,main road,1,High
+morning,rain,secondary road,0,Moderate
+morning,rain,main road,0,High
+morning,rain,main road,1,High
+morning,rain,main road,1,High
+afternoon,rain,main road,1,High
+afternoon,foggy,residential,0,Low
+afternoon,clear,secondary road,0,Low
+afternoon,cloudy,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+evening,foggy,secondary road,0,Moderate
+morning,clear,main road,0,Low
+morning,foggy,residential,1,Moderate
+evening,clear,main road,1,High
+afternoon,clear,residential,0,Low
+morning,foggy,main road,1,High
+afternoon,rain,secondary road,0,Moderate
+evening,clear,residential,0,High
+morning,rain,secondary road,1,Moderate
+afternoon,rain,secondary road,0,Moderate
+morning,foggy,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+evening,foggy,secondary road,1,Moderate
+morning,rain,main road,0,High
+afternoon,rain,residential,0,Moderate
+evening,clear,main road,0,Moderate
+morning,rain,residential,0,Low
+afternoon,clear,main road,1,High
+morning,clear,secondary road,1,Moderate
+afternoon,rain,main road,1,High
+evening,rain,secondary road,0,Moderate
+morning,cloudy,secondary road,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+morning,foggy,main road,1,High
+morning,foggy,residential,1,Low
+evening,cloudy,main road,0,Moderate
+evening,foggy,main road,0,Moderate
+morning,cloudy,secondary road,0,Low
+evening,rain,residential,1,Low
+afternoon,clear,secondary road,1,Moderate
+morning,clear,secondary road,0,Low
+morning,clear,residential,1,Moderate
+afternoon,cloudy,residential,0,Low
+afternoon,rain,residential,0,Low
+morning,cloudy,secondary road,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+evening,cloudy,residential,1,Low
+afternoon,clear,residential,1,Low
+afternoon,cloudy,secondary road,0,Low
+morning,cloudy,secondary road,0,Low
+evening,rain,main road,1,High
+morning,foggy,main road,0,Low
+morning,cloudy,secondary road,1,Moderate
+morning,rain,residential,0,Low
+afternoon,clear,residential,1,Moderate
+afternoon,foggy,secondary road,0,Low
+evening,clear,secondary road,0,Moderate
+evening,foggy,residential,0,High
+evening,foggy,secondary road,1,Moderate
+evening,foggy,secondary road,0,Moderate
+evening,clear,secondary road,1,Moderate
+afternoon,rain,secondary road,1,Moderate
+afternoon,cloudy,residential,1,Moderate
+evening,foggy,main road,0,High
+afternoon,cloudy,residential,1,Low
+afternoon,cloudy,residential,0,Low
+evening,foggy,residential,1,Moderate
+evening,rain,main road,1,High
+evening,clear,secondary road,0,High
+evening,cloudy,secondary road,1,Moderate
+afternoon,rain,main road,0,High
+morning,cloudy,main road,1,High
+evening,clear,main road,0,Moderate
+evening,cloudy,secondary road,0,High
+evening,foggy,secondary road,1,Moderate
+morning,clear,main road,0,Low
+afternoon,cloudy,main road,0,Low
+morning,cloudy,secondary road,1,Moderate
+afternoon,foggy,main road,0,Low
+afternoon,clear,main road,1,High
+afternoon,rain,residential,0,Moderate
+morning,rain,secondary road,1,Moderate
+afternoon,clear,main road,1,High
+evening,rain,main road,1,High
+morning,foggy,main road,0,Low
+evening,clear,residential,1,Low
+morning,foggy,secondary road,1,Moderate
+afternoon,clear,main road,1,High
+evening,foggy,secondary road,1,Moderate
+morning,cloudy,residential,0,Low
+morning,clear,secondary road,0,Low
+afternoon,foggy,main road,1,High
+evening,clear,main road,1,High
+morning,foggy,residential,0,Low
+evening,cloudy,main road,0,Moderate
+evening,cloudy,residential,0,High
+morning,rain,residential,1,Moderate
+afternoon,foggy,secondary road,1,Moderate
+morning,cloudy,residential,0,Low
+afternoon,foggy,secondary road,1,Moderate
+evening,clear,secondary road,1,Moderate
+evening,foggy,residential,0,High
+evening,cloudy,residential,0,High
+afternoon,rain,residential,0,Moderate
+evening,clear,secondary road,1,Moderate
+evening,foggy,main road,1,High
+morning,rain,main road,0,High
+morning,foggy,main road,1,High
+afternoon,rain,residential,1,Low
+morning,clear,secondary road,0,Low
+afternoon,rain,main road,1,High
+afternoon,clear,secondary road,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+afternoon,rain,residential,1,Moderate
+morning,rain,secondary road,1,Moderate
+morning,clear,secondary road,1,Moderate
+morning,rain,main road,1,High
+evening,cloudy,main road,0,Moderate
+morning,cloudy,residential,0,Low
+afternoon,clear,main road,0,Low
+evening,rain,main road,0,High
+afternoon,cloudy,residential,0,Low
+evening,foggy,secondary road,1,Moderate
+afternoon,clear,secondary road,1,Moderate
+afternoon,rain,secondary road,1,Moderate
+evening,clear,main road,0,High
+evening,clear,main road,1,High
+afternoon,foggy,main road,1,High
+morning,rain,residential,1,Low
+evening,foggy,residential,0,High
+evening,clear,main road,0,High
+evening,cloudy,residential,0,Moderate
+evening,rain,secondary road,0,Moderate
+afternoon,cloudy,secondary road,1,Moderate
+evening,clear,main road,0,High
+evening,cloudy,main road,0,Moderate
+evening,rain,residential,0,Low
+afternoon,foggy,secondary road,0,Low
+morning,foggy,main road,0,Low
+morning,clear,secondary road,0,Low
+afternoon,rain,residential,0,Low
+morning,clear,residential,1,Moderate
+evening,foggy,residential,1,Low
+evening,foggy,main road,1,High
+evening,clear,secondary road,0,Moderate
+afternoon,clear,main road,0,Low
+morning,rain,secondary road,1,Moderate
+morning,foggy,residential,0,Low
+evening,rain,secondary road,1,Moderate
+morning,clear,main road,0,Low
+afternoon,rain,main road,0,High
+morning,foggy,residential,1,Low
+afternoon,clear,main road,0,Low
+afternoon,foggy,main road,1,High
+morning,foggy,secondary road,0,Low
+morning,rain,residential,0,Low
+evening,clear,secondary road,1,Moderate
+afternoon,rain,main road,1,High
+evening,rain,main road,1,High
+evening,clear,main road,0,Moderate
+afternoon,clear,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+evening,clear,main road,1,High
+evening,clear,residential,1,Moderate
+evening,foggy,secondary road,1,Moderate
+morning,cloudy,residential,1,Low
+evening,clear,residential,1,Moderate
+morning,foggy,main road,0,Low
+evening,rain,main road,1,High
+morning,foggy,main road,1,High
+morning,clear,main road,1,High
+morning,cloudy,residential,1,Low
+evening,clear,residential,1,Low
+evening,cloudy,main road,0,High
+evening,foggy,secondary road,0,High
+morning,rain,secondary road,0,Moderate
+evening,clear,main road,1,High
+evening,foggy,secondary road,0,High
+afternoon,foggy,secondary road,0,Low
+evening,clear,main road,0,Moderate
+afternoon,foggy,main road,1,High
+afternoon,rain,residential,0,Moderate
+afternoon,clear,main road,0,Low
+afternoon,clear,residential,1,Low
+evening,rain,secondary road,0,Moderate
+evening,cloudy,residential,1,Low
+morning,cloudy,residential,1,Low
+evening,cloudy,residential,0,High
+evening,cloudy,residential,0,Moderate
+morning,rain,secondary road,0,Moderate
+afternoon,cloudy,residential,0,Low
+evening,clear,main road,0,High
+evening,cloudy,residential,0,High
+afternoon,clear,residential,1,Moderate
+morning,rain,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+morning,clear,main road,0,Low
+afternoon,foggy,main road,0,Low
+evening,clear,residential,0,Moderate
+evening,foggy,main road,0,High
+evening,foggy,residential,1,Low
+morning,cloudy,residential,0,Low
+afternoon,rain,main road,1,High
+evening,foggy,main road,1,High
+evening,rain,secondary road,0,Moderate
+afternoon,rain,main road,1,High
+morning,cloudy,secondary road,1,Moderate
+morning,foggy,residential,0,Low
+afternoon,foggy,residential,0,Low
+afternoon,rain,residential,0,Low
+afternoon,rain,secondary road,0,Moderate
+morning,foggy,residential,0,Low
+morning,clear,main road,0,Low
+morning,clear,secondary road,0,Low
+afternoon,clear,residential,0,Low
+evening,rain,secondary road,0,Moderate
+afternoon,foggy,main road,1,High
+evening,clear,secondary road,0,High
+morning,foggy,secondary road,1,Moderate
+afternoon,cloudy,residential,1,Moderate
+evening,foggy,main road,0,High
+morning,rain,main road,0,High
+evening,foggy,secondary road,1,Moderate
+evening,foggy,residential,0,High
+morning,rain,secondary road,1,Moderate
+afternoon,cloudy,residential,0,Low
+evening,clear,residential,1,Low
+morning,cloudy,residential,0,Low
+evening,clear,secondary road,1,Moderate
+afternoon,rain,main road,0,High
+evening,foggy,residential,0,Moderate
+evening,clear,secondary road,1,Moderate
+evening,clear,secondary road,1,Moderate
+morning,foggy,secondary road,0,Low
+morning,clear,secondary road,1,Moderate
+morning,foggy,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+morning,rain,main road,0,High
+evening,cloudy,residential,0,Moderate
+morning,cloudy,main road,1,High
+morning,foggy,main road,1,High
+evening,cloudy,secondary road,1,Moderate
+morning,rain,main road,0,High
+afternoon,foggy,residential,0,Low
+evening,rain,residential,1,Low
+evening,clear,residential,0,Moderate
+evening,foggy,main road,0,Moderate
+afternoon,foggy,residential,1,Moderate
+morning,rain,main road,1,High
+morning,clear,main road,0,Low
+evening,rain,residential,0,Low
+evening,rain,main road,1,High
+evening,cloudy,secondary road,0,High
+afternoon,clear,main road,1,High
+evening,clear,main road,0,Moderate
+afternoon,cloudy,residential,1,Low
+evening,clear,secondary road,0,High
+afternoon,rain,residential,0,Moderate
+evening,foggy,residential,1,Low
+morning,foggy,main road,0,Low
+morning,cloudy,residential,1,Moderate
+afternoon,foggy,residential,0,Low
+evening,cloudy,secondary road,0,Moderate
+afternoon,clear,residential,1,Moderate
+morning,cloudy,main road,1,High
+afternoon,foggy,main road,0,Low
+evening,rain,secondary road,0,Moderate
+afternoon,foggy,main road,0,Low
+afternoon,cloudy,residential,1,Moderate
+evening,foggy,main road,1,High
+afternoon,cloudy,residential,0,Low
+afternoon,cloudy,main road,1,High
+afternoon,clear,main road,1,High
+morning,foggy,residential,0,Low
+afternoon,foggy,residential,0,Low
+morning,foggy,residential,1,Moderate
+evening,cloudy,main road,1,High
+afternoon,clear,residential,0,Low
+evening,cloudy,residential,1,Moderate
+afternoon,clear,main road,1,High
+evening,clear,main road,0,High
+evening,foggy,secondary road,0,High
+afternoon,cloudy,secondary road,1,Moderate
+afternoon,rain,main road,1,High
+morning,cloudy,secondary road,1,Moderate
+morning,cloudy,residential,1,Moderate
+afternoon,rain,main road,1,High
+evening,rain,residential,1,Moderate
+afternoon,rain,main road,0,High
+evening,cloudy,main road,1,High
+evening,rain,residential,0,Moderate
+morning,cloudy,main road,0,Low
+morning,rain,secondary road,0,Moderate
+morning,clear,secondary road,1,Moderate
+afternoon,clear,main road,1,High
+morning,cloudy,main road,0,Low
+evening,foggy,residential,1,Low
+afternoon,rain,secondary road,0,Moderate
+evening,rain,residential,1,Moderate
+morning,foggy,main road,1,High
+afternoon,foggy,main road,0,Low
+morning,cloudy,residential,1,Moderate
+morning,clear,residential,0,Low
+morning,rain,main road,1,High
+evening,cloudy,residential,0,Moderate
+afternoon,clear,residential,0,Low
+evening,foggy,secondary road,1,Moderate
+afternoon,rain,residential,1,Low
+morning,cloudy,main road,0,Low
+evening,rain,secondary road,0,Moderate
+afternoon,cloudy,residential,0,Low
+afternoon,cloudy,residential,1,Low
+morning,foggy,residential,1,Moderate
+evening,foggy,main road,1,High
+afternoon,clear,secondary road,1,Moderate
+morning,cloudy,secondary road,1,Moderate
+morning,foggy,residential,0,Low
+afternoon,clear,main road,0,Low
+morning,cloudy,secondary road,0,Low
+afternoon,cloudy,residential,1,Low
+afternoon,clear,main road,1,High
+afternoon,clear,residential,0,Low
+afternoon,rain,main road,0,High
+morning,foggy,residential,0,Low
+afternoon,foggy,main road,1,High
+evening,clear,main road,1,High
+evening,foggy,main road,1,High
+evening,cloudy,secondary road,1,Moderate
+afternoon,cloudy,secondary road,0,Low
+evening,rain,secondary road,1,Moderate
+morning,foggy,secondary road,0,Low
+morning,rain,residential,0,Moderate
