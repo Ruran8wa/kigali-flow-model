@@ -51,3 +51,8 @@ All trained models are stored in the `saved_models/` folder:
 - `model-3.keras`
 - `model-4.keras`
 - `model-5.keras`
+
+
+## Link to the submission video
+
+- `https://youtu.be/s88a2FEeMGA`
